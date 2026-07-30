@@ -1,7 +1,1 @@
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=geunhyekang&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/geunhyekang"
-  width="600"
-  height="300"
-/>
-</a>
+[![gitanimals](https://render.gitanimals.org/farms/geunhyekang?v=1)](https://github.com/devxb/gitanimals)
